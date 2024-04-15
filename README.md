@@ -27,6 +27,7 @@
   - ![Screenshot 2024-04-15 042012](https://github.com/antiQuery/xRocket-increase-trading-volume/assets/152047659/a1b85caa-55bb-47c6-9123-873911e575af) ![Screenshot 2024-04-15 041809](https://github.com/antiQuery/xRocket-increase-trading-volume/assets/152047659/b88c5bd9-1934-469c-87b0-d87919ead84d)
 
 # Run
+For every 1k$ of trading value, it takes about 2$ of commission.
 ```bash
   node main.js
 ```
